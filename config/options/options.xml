@@ -1,18 +1,18 @@
 <application>
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.0.5-release-IJ2016.3-1" />
-    <property name="android-component-compatibility-check" value="1490492282307" />
+    <property name="android-component-compatibility-check" value="1491120863987" />
     <property name="project.wizard.group" value="SpringInitializr" />
     <property name="project.wizard.template" value="Spring Initializr" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="29" />
-    <property name="file.chooser.recent.files" value="E:/java/githubProject/spring/spring&#10;E:/java/jerryProject/SpringBootInPractice/src/28208 SpringBootSourceCode/SourceCode/highlight_springmvc4&#10;E:/java/mybatis/springbootMyBatis&#10;E:/java/mybatis/springbootMyBatis/boot-mybatis&#10;E:/java/mybatis/mickjoust-boot-demo&#10;E:/java/githubProject/mickjoust-boot-demo&#10;E:/java/githubProject/mybatis-3&#10;E:/java/mybatis/spring-boot-starter&#10;E:/java/mybatis/spring-boot-starter/mybatis-spring-boot-starter&#10;E:/java/mybatis/spring-boot-starter/mybatis-spring-boot-samples&#10;E:/java/mybatis/SpringBoot-Learning/Chapter3-2-7&#10;E:/java/jerryProject/SpringBootInPractice/src/28208 SpringBootSourceCode/SourceCode/ch8_2&#10;E:/java/jerryProject/SpringBootInPractice/src/28208 SpringBootSourceCode/jerryDemo/pom.xml&#10;E:/java/jerryProject/DeepPracticeSpringBoot/Chapter2/spring-boot-db&#10;E:/java/jerryProject/DeepPracticeSpringBoot/Chapter2/spring-boot-db/mysql&#10;E:/java/jerryProject/DeepPracticeSpringBoot/Chapter2&#10;E:/java/jerryProject/spring-boot-db/mysql&#10;E:/java/jerryProject/spring-boot-db&#10;E:/java/jerryProject/spring-boot-hello&#10;E:/java/jerryProject/demo10&#10;E:/software/FindBugs-IDEA-1.0.1.zip&#10;E:/software/Key_promoter_11324.jar&#10;E:/software/key-promoter-fork-master.zip&#10;E:/java/jerryProject/key-promoter-fork/key-promoter-fork.zip&#10;E:/java/jerryProject/springbotSwaggerUI/complete&#10;E:/java/jerryProject/gs-rest-service/complete&#10;E:/java/jerryProject/gs-rest-service&#10;E:/java/HelloWorldDemo&#10;E:/java/TIJ&#10;E:/java/HelloWorld" />
+    <property name="lastTip" value="35" />
+    <property name="file.chooser.recent.files" value="E:/迅雷下载/镇江少妇/mybatis_plus/mybatis_plus/lib/mybatis-generator-core-1.3.2.jar&#10;E:/迅雷下载/镇江少妇/mybatis_plus/mybatis_plus/lib/mybatis_plus.jar&#10;E:/java/githubProject/jax-rs2-guide-II/2.3.6-3.simple-service-jackson&#10;E:/java/githubProject/jax-rs2-guide-II/2.simple-service-3&#10;E:/java/githubProject/jax-rs2-guide-II/2.3.6-1.simple-service-moxy&#10;E:/java/githubProject/jersey/examples&#10;E:/java/githubProject/jersey&#10;E:/java/githubProject/jax-rs2-guide-II&#10;E:/software/Jersey.Sample.Contact.Src/Jersey.Sample.Contact.Src&#10;E:/java/jerryProject/DeepPracticeSpringBoot/Chapter99/demo0402&#10;E:/java/jerryProject/SpringBootInPractice/src/28208 SpringBootSourceCode/SourceCode/ch12&#10;E:/java/jerryProject/SpringBootInPractice/src/28208 SpringBootSourceCode/SourceCode/highlight_springmvc4&#10;E:/java/githubProject/spring-boot-starter&#10;E:/java/githubProject/spring/spring-framework&#10;E:/java/githubProject/spring/spring&#10;E:/java/mybatis/springbootMyBatis&#10;E:/java/mybatis/springbootMyBatis/boot-mybatis&#10;E:/java/mybatis/mickjoust-boot-demo&#10;E:/java/githubProject/mickjoust-boot-demo&#10;E:/java/githubProject/mybatis-3&#10;E:/java/mybatis/spring-boot-starter&#10;E:/java/mybatis/spring-boot-starter/mybatis-spring-boot-starter&#10;E:/java/mybatis/spring-boot-starter/mybatis-spring-boot-samples&#10;E:/java/mybatis/SpringBoot-Learning/Chapter3-2-7&#10;E:/java/jerryProject/SpringBootInPractice/src/28208 SpringBootSourceCode/SourceCode/ch8_2&#10;E:/java/jerryProject/SpringBootInPractice/src/28208 SpringBootSourceCode/jerryDemo/pom.xml&#10;E:/java/jerryProject/DeepPracticeSpringBoot/Chapter2/spring-boot-db&#10;E:/java/jerryProject/DeepPracticeSpringBoot/Chapter2/spring-boot-db/mysql&#10;E:/java/jerryProject/DeepPracticeSpringBoot/Chapter2&#10;E:/java/jerryProject/spring-boot-db/mysql" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="selected.color.option.type" value="LOGCAT_DEBUG_OUTPUT" />
     <property name="FileTemplates.SelectedTemplate" value="Class" />
-    <property name="PLUGIN_FILTER" value="GitOSC&#10;CamelCase&#10;bug&#10;Key promoter" />
+    <property name="PLUGIN_FILTER" value="MyBatis plugin&#10;batis&#10;GitOSC&#10;CamelCase&#10;bug" />
     <property name="KEYMAP" value="" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
@@ -24,7 +24,7 @@
     <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
     <property name="search.everywhere.max.popup.width" value="810" />
     <property name="SpringBeansModulesPanel[0]" value="0.22727273" />
-    <property name="plugins.preselection.path" value="E:/software" />
+    <property name="plugins.preselection.path" value="E:/迅雷下载/镇江少妇/mybatis_plus/mybatis_plus/lib" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="JUnit.Splitter.Proportion" value="0.015916575" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -33,5 +33,7 @@
     <property name="typescript.merge.auto.import" value="true" />
     <property name="typescript.use.config.auto.import" value="false" />
     <property name="typescript.use.directory.import.node" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
   </component>
 </application>

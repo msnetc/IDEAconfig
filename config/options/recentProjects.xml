@@ -2,8 +2,20 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="E:\java\githubProject\spring\spring" />
+        <option value="E:\java\githubProject\jax-rs2-guide-II\2.3.6-3.simple-service-jackson" />
+        <option value="E:\java\githubProject\learnJersey\ch2demo1" />
+        <option value="E:\java\githubProject\jax-rs2-guide-II\2.3.6-1.simple-service-moxy" />
+        <option value="E:\java\githubProject\jax-rs2-guide-II\2.simple-service-3" />
+        <option value="E:\java\githubProject\jax-rs2-guide-II" />
+        <option value="E:\java\jerryProject\DeepPracticeSpringBoot\Chapter99\demo0402" />
+        <option value="E:\java\githubProject\jersey\examples" />
+        <option value="E:\java\githubProject\jersey" />
+        <option value="E:\software\Jersey.Sample.Contact.Src\Jersey.Sample.Contact.Src" />
         <option value="E:\java\jerryProject\SpringBootInPractice\src\28208 SpringBootSourceCode\SourceCode\highlight_springmvc4" />
+        <option value="E:\java\jerryProject\SpringBootInPractice\src\28208 SpringBootSourceCode\SourceCode\ch12" />
+        <option value="E:\java\githubProject\spring-boot-starter" />
+        <option value="E:\java\githubProject\spring\spring-framework" />
+        <option value="E:\java\githubProject\spring\spring" />
         <option value="E:\java\githubProject\mybatis-3" />
         <option value="E:\java\mybatis\springbootMyBatis" />
         <option value="E:\java\mybatis\springbootMyBatis\boot-mybatis" />
@@ -40,21 +52,15 @@
         <option value="E:\java\jerryProject\demo1" />
         <option value="E:\java\TIJLearn" />
         <option value="E:\java\HelloWorldDemo" />
-        <option value="E:\java\TIJ" />
-        <option value="E:\java\DemoCommandLine" />
-        <option value="E:\java\springwebdemo_1" />
-        <option value="E:\java\HelloWorld" />
-        <option value="E:\java\TIJ\TIJ" />
-        <option value="E:\java\jerryProject" />
-        <option value="C:\Users\jerry\IdeaProjects\untitled" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:\java\jerryProject\SpringBootInPractice\src\28208 SpringBootSourceCode\SourceCode\highlight_springmvc4" />
+        <option value="E:\java\githubProject\learnJersey\ch2demo1" />
+        <option value="E:\java\githubProject\jax-rs2-guide-II\2.3.6-3.simple-service-jackson" />
       </list>
     </option>
-    <option name="lastPath" value="E:\java\githubProject\spring\spring" />
+    <option name="lastPath" value="E:\java\githubProject\jax-rs2-guide-II\2.3.6-3.simple-service-jackson" />
     <option name="additionalInfo">
       <map>
         <entry key="C:\Users\jerry\IdeaProjects\untitled">
@@ -134,6 +140,83 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:\java\githubProject\jax-rs2-guide-II">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491211306037" />
+              <option name="buildTimestamp" value="1485857147494" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\java\githubProject\jax-rs2-guide-II\2.3.6-1.simple-service-moxy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491219044414" />
+              <option name="buildTimestamp" value="1485857127376" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\java\githubProject\jax-rs2-guide-II\2.3.6-3.simple-service-jackson">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491222397314" />
+              <option name="buildTimestamp" value="1485857128137" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\java\githubProject\jax-rs2-guide-II\2.simple-service-3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491212875951" />
+              <option name="buildTimestamp" value="1485857147494" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\java\githubProject\jersey">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491202147447" />
+              <option name="buildTimestamp" value="1485857101947" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\java\githubProject\jersey\examples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491202214910" />
+              <option name="buildTimestamp" value="1485857101947" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\java\githubProject\learnJersey\ch2demo1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491222393870" />
+              <option name="buildTimestamp" value="1485857128137" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:\java\githubProject\mickjoust-boot-demo">
           <value>
             <RecentProjectMetaInfo>
@@ -156,6 +239,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:\java\githubProject\spring-boot-starter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491131812518" />
+              <option name="buildTimestamp" value="1485857115339" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:\java\githubProject\spring\spring">
           <value>
             <RecentProjectMetaInfo>
@@ -164,6 +258,17 @@
               <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
               <option name="projectOpenTimestamp" value="1491119426245" />
               <option name="buildTimestamp" value="1485857149207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\java\githubProject\spring\spring-framework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491121317911" />
+              <option name="buildTimestamp" value="1485857115339" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -211,6 +316,28 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:\java\jerryProject\DeepPracticeSpringBoot\Chapter99\demo0402">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491211294988" />
+              <option name="buildTimestamp" value="1485857147494" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\java\jerryProject\SpringBootInPractice\src\28208 SpringBootSourceCode\SourceCode\ch12">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491141924058" />
+              <option name="buildTimestamp" value="1485857115339" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:\java\jerryProject\SpringBootInPractice\src\28208 SpringBootSourceCode\SourceCode\ch8_2">
           <value>
             <RecentProjectMetaInfo>
@@ -228,8 +355,8 @@
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
-              <option name="projectOpenTimestamp" value="1491115074482" />
-              <option name="buildTimestamp" value="1485857149207" />
+              <option name="projectOpenTimestamp" value="1491182264179" />
+              <option name="buildTimestamp" value="1485857100954" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -552,8 +679,19 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:\software\Jersey.Sample.Contact.Src\Jersey.Sample.Contact.Src">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.3\bin" />
+              <option name="projectOpenTimestamp" value="1491187932534" />
+              <option name="buildTimestamp" value="1485857101947" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="E:/java/jerryProject/SpringBootInPractice/src/28208 SpringBootSourceCode/SourceCode" />
+    <option name="lastProjectLocation" value="E:/java/githubProject/jax-rs2-guide-II" />
   </component>
 </application>
