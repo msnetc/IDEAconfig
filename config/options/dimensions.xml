@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="new project wizard.0.0.1920.1080@120dpi" x="246" y="67" />
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="476" y="91" />
     <location key="SettingsEditor.0.0.1920.1080@120dpi" x="0" y="29" />
     <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="959" y="287" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="157" y="313" />
@@ -41,17 +41,19 @@
     <location key="NewModule_or_Project.wizard.0.0.1920.1080@120dpi" x="389" y="162" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080@120dpi" x="626" y="203" />
     <location key="#unittest.0.0.1920.1080@120dpi" x="633" y="110" />
+    <location key="IdeErrosDialog.0.0.1920.1080@120dpi" x="277" y="300" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080@120dpi" x="620" y="248" />
     <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1563" height="933" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1844" height="306" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1844" height="306" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1844" height="306" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1844" height="306" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1858" height="306" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1858" height="306" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1858" height="306" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1858" height="306" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1314" height="936" />
     <size key="new project wizard.0.0.1920.1080@120dpi" width="1389" height="703" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1844" height="306" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1844" height="306" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1844" height="306" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1844" height="306" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1858" height="306" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1858" height="306" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1858" height="306" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1858" height="306" />
     <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1858" height="458" />
     <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1858" height="458" />
     <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1858" height="458" />
@@ -60,6 +62,6 @@
     <size key="StructurePopup.0.0.1920.1080@120dpi" width="620" height="413" />
     <size key="new project wizard.0.0.0.0@120dpi" width="1142" height="703" />
     <size key="FileChooserDialogImpl.0.0.1920.1080@120dpi" width="841" height="770" />
-    <size key="DebuggerActiveHint.0.0.1920.1080@120dpi" width="493" height="571" />
+    <size key="DebuggerActiveHint.0.0.1920.1080@120dpi" width="520" height="571" />
   </component>
 </application>
